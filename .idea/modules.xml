@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/erudio-config-server/erudio-config-server.iml" filepath="$PROJECT_DIR$/erudio-config-server/erudio-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/erudio-microservices.iml" filepath="$PROJECT_DIR$/.idea/erudio-microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-greeting-service/greeting-service.iml" filepath="$PROJECT_DIR$/04-greeting-service/greeting-service.iml" />
+    </modules>
+  </component>
+</project>
